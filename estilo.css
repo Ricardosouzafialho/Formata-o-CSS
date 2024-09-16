@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: #c3b61f;  */
+    background-image: url(https://cdn.pixabay.com/photo/2015/09/21/13/17/road-949832_640.jpg);
+    /* background-repeat: repeat-y;  */
+    background-size: cover;
+    /* background-position: left;  */
+    background-attachment: fixed;
+}
+
+    main{
+        width: 60%;
+        margin: auto;
+        background-color: rgba(0, 0, 0, 0.671);
+        padding-top: 30px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 100px;
+         border: #939453 6px solid;     /*solid dotted dashed */
+        border-radius: 30px;
+    }
+
+    p{
+        color: #939453;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 900;
+        /* font-style: oblique; */
+        /* font-stretch: condensed; */
+        line-height: 2.5;
+        /* letter-spacing: 2px; */
+        /* word-spacing: 2px; */
+        text-align: justify;
+        text-decoration: underline #504432 solid; 
+        /* text-transform: capitalize; */
+        text-indent: 10px;
+        text-shadow: 2px 1px 1px #000000;
+    }
+    img{
+        margin-left: 18%;
+    }
+    footer p{
+        text-align: center;
+        background-color: white;
+        color: cyan;
+    }
+    
